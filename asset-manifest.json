@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/space-tourism/static/css/main.7d956b14.css",
+    "main.js": "/space-tourism/static/js/main.3cac0711.js",
+    "static/js/787.e5372b0f.chunk.js": "/space-tourism/static/js/787.e5372b0f.chunk.js",
+    "static/media/Bitmap-crew-desktop.png": "/space-tourism/static/media/Bitmap-crew-desktop.8ff5016a98edc9e2de2b.png",
+    "static/media/Bitmap-destination-desktop.jpg": "/space-tourism/static/media/Bitmap-destination-desktop.dc81c62a58c123396a91.jpg",
+    "static/media/Bitmap-home-desktop.jpg": "/space-tourism/static/media/Bitmap-home-desktop.b8f0ac6bf01569b09f4f.jpg",
+    "static/media/Bitmap-home-tablet.jpg": "/space-tourism/static/media/Bitmap-home-tablet.bc1c079a6fbde2896cfe.jpg",
+    "static/media/Bitmap-destination-tablet.jpg": "/space-tourism/static/media/Bitmap-destination-tablet.c61d20f5e17480fab7f4.jpg",
+    "static/media/Bitmap-tech-desktop.jpg": "/space-tourism/static/media/Bitmap-tech-desktop.892d2fd5b28e119e266d.jpg",
+    "static/media/Bitmap-crew-tablet.jpg": "/space-tourism/static/media/Bitmap-crew-tablet.6178180457439f7f94b7.jpg",
+    "static/media/Bitmap-tech-tablet.jpg": "/space-tourism/static/media/Bitmap-tech-tablet.c7c284eea05eb8c54747.jpg",
+    "static/media/Bitmap-home-mob.jpg": "/space-tourism/static/media/Bitmap-home-mob.d4780e10a38f1ad0905f.jpg",
+    "static/media/Bitmap-destination-mob.jpg": "/space-tourism/static/media/Bitmap-destination-mob.4f5c703558bbcea4a057.jpg",
+    "static/media/Bitmap-crew-mob.jpg": "/space-tourism/static/media/Bitmap-crew-mob.647b2cca8f69646983f9.jpg",
+    "static/media/Bitmap-tech-mob.jpg": "/space-tourism/static/media/Bitmap-tech-mob.f3216d2ece11113e234f.jpg",
+    "index.html": "/space-tourism/index.html",
+    "static/media/88a590c5-d228-4664-b52f-c35f02a3bccb-l12s.svg": "/space-tourism/static/media/88a590c5-d228-4664-b52f-c35f02a3bccb-l12s.a99a02bef0f55270f98d.svg",
+    "main.7d956b14.css.map": "/space-tourism/static/css/main.7d956b14.css.map",
+    "main.3cac0711.js.map": "/space-tourism/static/js/main.3cac0711.js.map",
+    "787.e5372b0f.chunk.js.map": "/space-tourism/static/js/787.e5372b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d956b14.css",
+    "static/js/main.3cac0711.js"
+  ]
+}
